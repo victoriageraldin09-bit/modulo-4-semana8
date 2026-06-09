@@ -1,0 +1,6 @@
+3 prácticas básicas de seguridad digital
+
+.Utilizar contraseñas seguras y diferentes para cada cuenta.
+.No abrir enlaces o archivos adjuntos de remitentes desconocidos.
+.Cerrar sesión en equipos compartidos o públicos.
+.No compartir contraseñas

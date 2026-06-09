@@ -1,0 +1,19 @@
+Qué información muestra cada comando
+
+uname -a
+Muestra información detallada sobre el sistema operativo como por
+ejemplo nombre del sistema operativo,Nombre del equipo, Arquitectura 
+del procesador (x86_64)
+
+whoami
+Muestra el nombre del usuario que está ejecutando la sesión actual.
+
+Por qué es útil conocer información del sistema cuando se administra 
+un servidor.
+
+Conocer la información del sistema es útil al administrar un servidor 
+porque permite identificar las características del equipo, verificar
+ la versión del sistema operativo,solucionar problemas, verificar 
+ la compatibilidad del software para poder hacer las actualizaciones
+ adecuadas, mantener la seguridad y el buen
+  funcionamiento del sistema.
